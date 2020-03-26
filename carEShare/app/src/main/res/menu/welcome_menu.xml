@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="Rate/View" android:id="@+id/Rate" android:icon="@drawable/ic_rate_review_black_24dp"
+        app:showAsAction="always"/>
+    <item android:title="Settings" android:id="@+id/MenuSettings" android:icon="@drawable/ic_settings"
+        app:showAsAction="always"/>
+    <item android:title="Settings" android:id="@+id/Logout" android:icon="@drawable/ic_logout"
+        app:showAsAction="always"/>
+</menu>

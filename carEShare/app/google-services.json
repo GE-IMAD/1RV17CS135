@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1053555384443",
+    "firebase_url": "https://careshare-a6af1.firebaseio.com",
+    "project_id": "careshare-a6af1",
+    "storage_bucket": "careshare-a6af1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053555384443:android:b5b6eb73c3d8f25cbac2de",
+        "android_client_info": {
+          "package_name": "com.example.care_share"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053555384443-ou0pmmvd09cssk6e2dd4md6g5lfrt67e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.care_share",
+            "certificate_hash": "0f98dbb054de7ff5e023a33edd82363323ebd045"
+          }
+        },
+        {
+          "client_id": "1053555384443-6ocuoj5cq1ht84fe11dkeonnlesje89t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnvIwNSyAaTbra9gekSFfFErB1PZiq6WM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053555384443-6ocuoj5cq1ht84fe11dkeonnlesje89t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
